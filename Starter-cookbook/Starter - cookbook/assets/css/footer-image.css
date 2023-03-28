@@ -1,0 +1,18 @@
+.footer__image {
+    display: block;
+    height: 100px;
+    width: 100px;
+    margin: 1rem;
+}
+
+.footer__image-whatsapp {
+    background-image: url('../../assets/img/whatsapp.png')
+}
+
+.footer__image-youtube {
+    background-image: url('../../assets/img/youtube.png');
+}
+
+.footer__image-instagram {
+    background-image: url('../../assets/img/instagram.png');
+}

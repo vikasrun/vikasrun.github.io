@@ -1,0 +1,15 @@
+.about__desc{
+    color: #858585;
+    /* font-size: 1.75rem;*/
+    font-weight: 580;
+}
+@media screen and (min-width: 0px){
+    .about__desc {
+       font-size: 1.75rem;
+    }
+}
+@media screen and (min-width: 786px){
+    .about__desc {
+       font-size: 1.75rem;
+    }
+}
