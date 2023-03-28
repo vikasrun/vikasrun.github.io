@@ -1,0 +1,13 @@
+.person{
+    display: block;
+}
+@media screen and (min-width: 0px){
+    .person {
+       margin-bottom: 2rem;
+    }
+}
+@media screen and (min-width: 768px){
+    .person {
+       margin-bottom: 0;
+    }
+}
