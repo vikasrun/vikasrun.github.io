@@ -1,0 +1,21 @@
+.recipes{
+    background: #e5e5e5;
+    display: flex;
+    flex-wrap: wrap;
+   /*padding: 3rem 1rem 0 3rem;*/
+}
+@media screen and (min-width: 0px){
+    .recipes {
+       padding: 5rem 0 0 1rem;
+    }
+}
+@media screen and (min-width: 768px){
+    .recipes {
+       padding: 5rem 0 0 2.5rem;
+    }
+}
+@media screen and (min-width: 992px){
+    .recipes {
+       padding: 5rem 3 0 5.5rem;
+    }
+}

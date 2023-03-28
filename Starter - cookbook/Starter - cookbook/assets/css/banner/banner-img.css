@@ -1,0 +1,18 @@
+.banner__img{
+    background-image: url("../../img/banner2.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    width: 100%;
+    height: calc(100vh - 117px);
+} 
+@media screen and (min-width: 0px){
+    .banner__img {
+    height: calc(100vh - 50px);
+    }
+}
+@media screen and (min-width: 768px){
+    .banner__img {
+        height: calc(100vh - 117px);
+    }
+}
